@@ -2,6 +2,8 @@ name: dotquantum_getx
 description: A scaffold with getx dependencies.
 author: Pierpaolo Marturano <p.marturano@iphonedeveloper.it>
 
+copy_files: true
+
 structure:
   - ui:
     - common:
